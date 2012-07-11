@@ -5,6 +5,8 @@ About
 -----
 The XBMC doctape Plugin integrates media files from your [doctape] [2] account right into your XBMC media center.
 
+![Screenshot Video Plugin](https://github.com/doctape/dt-xbmc/raw/master/assets/dt-xbmc-video-001.png)  
+
 ###What's doctape?###
 
 **doctape** is your personal document hub.  
