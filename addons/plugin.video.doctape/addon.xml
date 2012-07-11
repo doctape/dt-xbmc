@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.doctape" name="doctape" version="0.6" provider-name="tape.io GmbH">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon='script.common.plugin.cache' version='0.9.2'/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">doctape - your personal document hub</summary> 
+        <language>de</language>
+        <description lang="en">doctape - your personal document hub
+
+Stream videos right out of your doctape account.
+
+doctape.com</description>
+        <disclaimer lang="en">DISCLAIMER</disclaimer>
+    <platform>all</platform>
+    </extension>
+</addon>

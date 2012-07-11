@@ -1,0 +1,3 @@
+XBMC doctape Video Plugin
+
+- 0.4 Inital Release
