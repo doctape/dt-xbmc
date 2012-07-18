@@ -10,7 +10,7 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary lang="en">doctape - your personal document hub</summary> 
-        <language>de</language>
+        <language>en</language>
         <description lang="en">doctape - your personal document hub
 
 Stream videos right out of your doctape account.
